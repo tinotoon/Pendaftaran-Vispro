@@ -1,0 +1,17 @@
+C:\Users\C U S T O M E R\source\repos\Falen(Pendaftaran)\bin\Debug\net6.0-windows\Falen(Pendaftaran).exe
+C:\Users\C U S T O M E R\source\repos\Falen(Pendaftaran)\bin\Debug\net6.0-windows\Falen(Pendaftaran).deps.json
+C:\Users\C U S T O M E R\source\repos\Falen(Pendaftaran)\bin\Debug\net6.0-windows\Falen(Pendaftaran).runtimeconfig.json
+C:\Users\C U S T O M E R\source\repos\Falen(Pendaftaran)\bin\Debug\net6.0-windows\Falen(Pendaftaran).dll
+C:\Users\C U S T O M E R\source\repos\Falen(Pendaftaran)\bin\Debug\net6.0-windows\Falen(Pendaftaran).pdb
+C:\Users\C U S T O M E R\source\repos\Falen(Pendaftaran)\obj\Debug\net6.0-windows\Falen_Pendaftaran_.Form1.resources
+C:\Users\C U S T O M E R\source\repos\Falen(Pendaftaran)\obj\Debug\net6.0-windows\Falen_Pendaftaran_.Properties.Resources.resources
+C:\Users\C U S T O M E R\source\repos\Falen(Pendaftaran)\obj\Debug\net6.0-windows\Falen(Pendaftaran).csproj.GenerateResource.cache
+C:\Users\C U S T O M E R\source\repos\Falen(Pendaftaran)\obj\Debug\net6.0-windows\Falen(Pendaftaran).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C U S T O M E R\source\repos\Falen(Pendaftaran)\obj\Debug\net6.0-windows\Falen(Pendaftaran).AssemblyInfoInputs.cache
+C:\Users\C U S T O M E R\source\repos\Falen(Pendaftaran)\obj\Debug\net6.0-windows\Falen(Pendaftaran).AssemblyInfo.cs
+C:\Users\C U S T O M E R\source\repos\Falen(Pendaftaran)\obj\Debug\net6.0-windows\Falen(Pendaftaran).csproj.CoreCompileInputs.cache
+C:\Users\C U S T O M E R\source\repos\Falen(Pendaftaran)\obj\Debug\net6.0-windows\Falen(Pendaftaran).dll
+C:\Users\C U S T O M E R\source\repos\Falen(Pendaftaran)\obj\Debug\net6.0-windows\refint\Falen(Pendaftaran).dll
+C:\Users\C U S T O M E R\source\repos\Falen(Pendaftaran)\obj\Debug\net6.0-windows\Falen(Pendaftaran).pdb
+C:\Users\C U S T O M E R\source\repos\Falen(Pendaftaran)\obj\Debug\net6.0-windows\Falen(Pendaftaran).genruntimeconfig.cache
+C:\Users\C U S T O M E R\source\repos\Falen(Pendaftaran)\obj\Debug\net6.0-windows\ref\Falen(Pendaftaran).dll
